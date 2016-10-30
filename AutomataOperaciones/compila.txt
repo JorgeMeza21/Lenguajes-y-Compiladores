@@ -1,0 +1,8 @@
+Struct Sparda{
+String hola;
+int e;
+};
+Sparda x;
+int y[3]={9,9};
+int u[3];
+a++;
